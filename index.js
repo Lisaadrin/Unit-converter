@@ -21,6 +21,4 @@ convertBtn.addEventListener("click", function(){
     ${Value} kilograms = ${(Value * kilogram).toFixed(3)} pounds | ${Value} pounds = ${(Value / kilogram).toFixed(3)} kilograms
     `
 })
-kghhvkbhjk
-lkljkbhjlbhj
-lkjnlkbhjlbhlsdffsdffsdsdfdssfd
+        
